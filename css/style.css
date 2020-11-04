@@ -33,7 +33,7 @@ html {
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
 
 
@@ -127,3 +127,11 @@ a:active {
 .nav {
     border: 0 !important;
 }
+
+
+/*TODEBUG*/
+
+
+/* .row {
+    border-bottom: 1px solid red;
+} */
