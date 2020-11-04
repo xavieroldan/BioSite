@@ -10,21 +10,11 @@
 
 body {
     font-family: "Poppins";
-    min-height:100%;
 }
-
-html{
-    height:100%;
-    min-height:100%;
-    }
-
-    
-
-
 /*background color*/
 
 body {
-    background-color: black;
+    background-color: red;
     color: whitesmoke;
 }
 
@@ -41,7 +31,7 @@ html {
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: auto 200%;
 }
 
 
